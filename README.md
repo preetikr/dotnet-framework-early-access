@@ -48,7 +48,7 @@ The .NET Framework early access builds will replace any existing .NET Framework 
 
 ## More Information on the .NET Framework
 
-The [.NET Framework 4.7.1](https://blogs.msdn.microsoft.com/dotnet/2018/01/09/net-framework-4-7-1-is-available-on-windows-update-wsus-and-mu-catalog/) is the latest version of the [.NET Framework](https://docs.microsoft.com/dotnet/framework/). It can be used for production deployments on Windows 7, Windows Server 2008 R2 SP1, and later versions of both the client and server Windows families.
+The [.NET Framework 4.7.1](https://blogs.msdn.microsoft.com/dotnet/2018/01/09/net-framework-4-7-1-is-available-on-windows-update-wsus-and-mu-catalog/) is the latest released version of the [.NET Framework](https://docs.microsoft.com/dotnet/framework/). It can be used for production deployments on Windows 7, Windows Server 2008 R2 SP1, and later versions of both the client and server Windows families.
 
 Please continue to file .NET Framework released product issues at [microsoft/dotnet](https://github.com/microsoft/dotnet/issues),
 .NET Core product issues at [dotnet/core](https://github.com/dotnet/core/issues),
